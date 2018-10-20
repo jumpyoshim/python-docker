@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+google-cloud
+mecab-python3
+pyaudio
+scikit-learn
